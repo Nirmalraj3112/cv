@@ -1,0 +1,39 @@
+
+hr {
+       background-color: rgb(255, 255, 255);
+      border-style: none;
+      height: 2px;
+      width: 96%;}
+body{
+    background-color: #EAF6F6;
+}
+h1{
+    background-color: #66BFBF;
+}
+h2{
+color:#66BFBF;
+}
+img{
+    width: 150px;
+    height: 140px;
+}
+ table,th,td{
+   
+      border:1px solid black;
+    }
+.photo{
+    border: none;
+}
+th:hover{
+   
+    background-color: #66BFBF;
+  }
+  td:hover{
+   
+    background-color: #66BFBF;
+  }
+  .order :hover{
+    background-color: #66BFBF;
+}
+
+  
